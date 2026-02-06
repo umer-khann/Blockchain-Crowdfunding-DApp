@@ -1,6 +1,6 @@
 # Decentralized Crowdfunding Platform
 
-**Developed by UmerKhan, Roll No: 22i-0780**
+**Developed by UmerKhan**
 
 A complete decentralized crowdfunding platform built with Solidity smart contracts and React frontend, featuring KYC verification and MetaMask integration.
 
