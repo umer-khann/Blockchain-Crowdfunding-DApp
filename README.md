@@ -1,6 +1,6 @@
 # Decentralized Crowdfunding Platform
 
-**Developed by UmerKhan**
+**Developed by Umer Khan**
 
 A complete decentralized crowdfunding platform built with Solidity smart contracts and React frontend, featuring KYC verification and MetaMask integration.
 
